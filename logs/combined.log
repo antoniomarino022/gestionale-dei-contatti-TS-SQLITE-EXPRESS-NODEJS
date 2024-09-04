@@ -1,0 +1,63 @@
+{"level":"info","message":"tentativo di svuotare la tabella users ricevuto","service":"user-service","timestamp":"2024-09-03 21:36:00"}
+{"level":"info","message":"tentativo di svuotare la tabella users ricevuto","service":"user-service","timestamp":"2024-09-03 21:36:38"}
+{"level":"info","message":"tentativo di svuotare la tabella users ricevuto","service":"user-service","timestamp":"2024-09-03 21:43:53"}
+{"level":"info","message":"tentativo di svuotare la tabella users ricevuto","service":"user-service","timestamp":"2024-09-04 15:57:04"}
+{"level":"info","message":"tentativo di svuotare la tabella users ricevuto","service":"user-service","timestamp":"2024-09-04 15:57:22"}
+{"level":"info","message":"tentativo di svuotare la tabella users ricevuto","service":"user-service","timestamp":"2024-09-04 16:10:52"}
+{"level":"info","message":"Tentativo di registrazione ricevuto","service":"user-service","timestamp":"2024-09-04 16:10:54"}
+{"level":"info","message":"Tentativo di registrazione ricevuto","service":"user-service","timestamp":"2024-09-04 16:13:20"}
+{"email":"anton87r@gmail.com","id":1,"level":"info","message":"Utente registrato","password":"$2b$10$ja4NelaByrcpc7tuPqsPgOUAR/nooza/XrIY2GT/TzfPpMfOu9uAK","service":"user-service","timestamp":"2024-09-04 16:13:20","username":"antOnsh"}
+{"level":"info","message":"Tentativo di registrazione ricevuto","service":"user-service","timestamp":"2024-09-04 16:13:42"}
+{"level":"warn","message":"Utente già esistente","service":"user-service","timestamp":"2024-09-04 16:13:42"}
+{"level":"info","message":"tentativo di login ricevuto","service":"user-service","timestamp":"2024-09-04 16:17:21"}
+{"0":"a","1":"n","10":"m","11":"a","12":"i","13":"l","14":".","15":"c","16":"o","17":"m","2":"t","3":"o","4":"n","5":"8","6":"7","7":"r","8":"@","9":"g","level":"info","message":"tentativo di login ricevuto","service":"user-service","timestamp":"2024-09-04 16:17:21"}
+{"level":"info","message":"login effettuato anton87r@gmail.com ","service":"user-service","timestamp":"2024-09-04 16:17:21"}
+{"level":"info","message":"Tentativo di logout ricevuto","service":"user-service","timestamp":"2024-09-04 16:18:07","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NDU5NDQxLCJleHAiOjE3MjU0NjEyNDF9.VEdcLUCTcpiOs1sHCCG8eEQ-ZeY5Ne_Mq361IPsw9Y0"}
+{"level":"info","message":"Logout effettuato con successo","service":"user-service","timestamp":"2024-09-04 16:18:07","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NDU5NDQxLCJleHAiOjE3MjU0NjEyNDF9.VEdcLUCTcpiOs1sHCCG8eEQ-ZeY5Ne_Mq361IPsw9Y0"}
+{"level":"info","message":"Tentativo di logout ricevuto","service":"user-service","timestamp":"2024-09-04 16:18:39","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NDU5NDQxLCJleHAiOjE3MjU0NjEyNDF9.VEdcLUCTcpiOs1sHCCG8eEQ-ZeY5Ne_Mq361IPsw9Y0"}
+{"level":"info","message":"tentativo di login ricevuto","service":"user-service","timestamp":"2024-09-04 16:18:46"}
+{"0":"a","1":"n","10":"m","11":"a","12":"i","13":"l","14":".","15":"c","16":"o","17":"m","2":"t","3":"o","4":"n","5":"8","6":"7","7":"r","8":"@","9":"g","level":"info","message":"tentativo di login ricevuto","service":"user-service","timestamp":"2024-09-04 16:18:46"}
+{"level":"info","message":"login effettuato anton87r@gmail.com ","service":"user-service","timestamp":"2024-09-04 16:18:46"}
+{"level":"info","message":"Tentativo di logout ricevuto","service":"user-service","timestamp":"2024-09-04 16:18:56","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NDU5NTI2LCJleHAiOjE3MjU0NjEzMjZ9.OJhpxjWY3KMTnQakk_ydy7oLwFr4SSSmV0Fk8HzGH3E"}
+{"level":"info","message":"Logout effettuato con successo","service":"user-service","timestamp":"2024-09-04 16:18:56","token":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NDU5NTI2LCJleHAiOjE3MjU0NjEzMjZ9.OJhpxjWY3KMTnQakk_ydy7oLwFr4SSSmV0Fk8HzGH3E"}
+{"level":"info","message":"Tentativo di registrazione ricevuto","service":"user-service","timestamp":"2024-09-04 16:19:00"}
+{"level":"warn","message":"Utente già esistente","service":"user-service","timestamp":"2024-09-04 16:19:00"}
+{"level":"info","message":"tentativo di svuotare la tabella users ricevuto","service":"user-service","timestamp":"2024-09-04 16:19:07"}
+{"level":"info","message":"Tentativo di registrazione ricevuto","service":"user-service","timestamp":"2024-09-04 16:19:09"}
+{"email":"anton87r@gmail.com","id":2,"level":"info","message":"Utente registrato","password":"$2b$10$uIMPdBDxJogbvgDkaBc4XOz0lbot31EcR4NcF8CfEsGMfDGdWbfya","service":"user-service","timestamp":"2024-09-04 16:19:09","username":"antOnsh"}
+{"level":"info","message":"tentativo di login ricevuto","service":"user-service","timestamp":"2024-09-04 16:19:15"}
+{"0":"a","1":"n","10":"m","11":"a","12":"i","13":"l","14":".","15":"c","16":"o","17":"m","2":"t","3":"o","4":"n","5":"8","6":"7","7":"r","8":"@","9":"g","level":"info","message":"tentativo di login ricevuto","service":"user-service","timestamp":"2024-09-04 16:19:15"}
+{"level":"info","message":"login effettuato anton87r@gmail.com ","service":"user-service","timestamp":"2024-09-04 16:19:15"}
+{"level":"warn","message":"Credenziali non inserite","service":"user-service","timestamp":"2024-09-04 16:19:29"}
+{"level":"warn","message":"Credenziali non inserite","password":"jdiNhdu383","service":"user-service","timestamp":"2024-09-04 16:20:14","username":"antonio"}
+{"level":"warn","message":"Credenziali non inserite","password":"jdiNhdu383","service":"user-service","timestamp":"2024-09-04 16:20:45","username":"antonio"}
+{"level":"warn","message":"Credenziali non inserite","password":"jdiNhdu383","service":"user-service","timestamp":"2024-09-04 16:20:46","username":"antonio"}
+{"level":"warn","message":"Credenziali non inserite","password":"jdiNhdu383","service":"user-service","timestamp":"2024-09-04 16:20:46","username":"antonio"}
+{"level":"info","message":"Tentativo di aggiornamento ricevuto","service":"user-service","timestamp":"2024-09-04 16:23:01"}
+{"id":"2","level":"info","message":"Aggiornamento utente riuscito","service":"user-service","timestamp":"2024-09-04 16:23:01","username":"antonio"}
+{"level":"info","message":"tentativo di rimuovere un utente ricevuto","service":"user-service","timestamp":"2024-09-04 16:23:19"}
+{"level":"info","message":"Utente eliminato con successo","service":"user-service","timestamp":"2024-09-04 16:23:19"}
+{"level":"info","message":"tentativo di svuotare la tabella auth ricevuto","service":"user-service","timestamp":"2024-09-04 16:23:33"}
+{"level":"info","message":"Tentativo di registrazione ricevuto","service":"user-service","timestamp":"2024-09-04 16:25:33"}
+{"email":"anton87r@gmail.com","id":3,"level":"info","message":"Utente registrato","password":"$2b$10$l.kjUAYB9dHyByDc2MBVmu01iEosu0WNfeZbmlG//E76yTtQPcqle","service":"user-service","timestamp":"2024-09-04 16:25:33","username":"antOnsh"}
+{"level":"info","message":"tentativo di login ricevuto","service":"user-service","timestamp":"2024-09-04 16:25:38"}
+{"0":"a","1":"n","10":"m","11":"a","12":"i","13":"l","14":".","15":"c","16":"o","17":"m","2":"t","3":"o","4":"n","5":"8","6":"7","7":"r","8":"@","9":"g","level":"info","message":"tentativo di login ricevuto","service":"user-service","timestamp":"2024-09-04 16:25:38"}
+{"level":"info","message":"login effettuato anton87r@gmail.com ","service":"user-service","timestamp":"2024-09-04 16:25:38"}
+{"level":"info","message":"Tentativo di aggiungere un prodotto ricevuto","service":"user-service","timestamp":"2024-09-04 16:25:55"}
+{"error":"SQLITE_CONSTRAINT: NOT NULL constraint failed: contacts.userId","level":"error","message":"Errore JavaScript durante l'aggiunta del contatto","service":"user-service","timestamp":"2024-09-04 16:25:55"}
+{"level":"info","message":"Tentativo di aggiungere un prodotto ricevuto","service":"user-service","timestamp":"2024-09-04 16:32:32"}
+{"contactId":1,"level":"info","message":"contatto aggiunto con successo","service":"user-service","timestamp":"2024-09-04 16:32:32"}
+{"level":"info","message":"tentativo di aggiornare un contatto ricevuto","service":"user-service","timestamp":"2024-09-04 16:33:06"}
+{"0":"1","level":"info","message":"contatto  aggiornato con successo","service":"user-service","timestamp":"2024-09-04 16:33:06"}
+{"level":"info","message":"tentativo di eliminare un contatto ricevuto","service":"user-service","timestamp":"2024-09-04 16:33:46"}
+{"0":"1","level":"info","message":"contatto eliminato con successo","service":"user-service","timestamp":"2024-09-04 16:33:46"}
+{"level":"info","message":"Tentativo di aggiungere un prodotto ricevuto","service":"user-service","timestamp":"2024-09-04 16:33:50"}
+{"contactId":2,"level":"info","message":"contatto aggiunto con successo","service":"user-service","timestamp":"2024-09-04 16:33:50"}
+{"level":"info","message":"tentativo di svuotare la tabella contacts ricevuto","service":"user-service","timestamp":"2024-09-04 16:34:02"}
+{"level":"info","message":"tabella contact svuotata con successo","service":"user-service","timestamp":"2024-09-04 16:34:02"}
+{"level":"info","message":"tentativo di svuotare la tabella contacts ricevuto","service":"user-service","timestamp":"2024-09-04 16:34:52"}
+{"level":"error","message":"tabella contact non svuotata ","service":"user-service","timestamp":"2024-09-04 16:34:52"}
+{"level":"info","message":"tentativo di svuotare la tabella contacts ricevuto","service":"user-service","timestamp":"2024-09-04 16:35:20"}
+{"level":"error","message":"tabella contact non svuotata ","service":"user-service","timestamp":"2024-09-04 16:35:20"}
+{"level":"info","message":"tentativo di svuotare la tabella auth ricevuto","service":"user-service","timestamp":"2024-09-04 16:35:41"}
+{"level":"info","message":"tentativo di svuotare la tabella users ricevuto","service":"user-service","timestamp":"2024-09-04 16:35:46"}

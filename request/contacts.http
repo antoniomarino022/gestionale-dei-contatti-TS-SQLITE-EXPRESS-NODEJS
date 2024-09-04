@@ -1,0 +1,40 @@
+### clear table contacts
+
+DELETE http://localhost:3000/contact/clear
+Content-Type: application/json
+Authorization:Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzI1NDU5OTM4LCJleHAiOjE3MjU0NjE3Mzh9.zJA7AD1tXY6y-er-2GP3OuMi2oGb3RxIoAa890roBkE
+
+
+
+### add contact
+POST http://localhost:3000/contact
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzI1NDU5OTM4LCJleHAiOjE3MjU0NjE3Mzh9.zJA7AD1tXY6y-er-2GP3OuMi2oGb3RxIoAa890roBkE
+
+{
+    "userId":3,
+    "contactName":"lucio",
+    "contactEmail":"lucio46@gmail.com",
+    "number":"857384950"
+}
+
+
+
+### update contact
+PUT http://localhost:3000/contact/update/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzI1NDU5OTM4LCJleHAiOjE3MjU0NjE3Mzh9.zJA7AD1tXY6y-er-2GP3OuMi2oGb3RxIoAa890roBkE
+
+{
+    "contactName":"luciond",
+    "contactEmail":"luciorf46@gmail.com",
+    "number":"757386550"
+}
+
+
+
+
+### delete contact
+DELETE http://localhost:3000/contact/1
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MywiaWF0IjoxNzI1NDU5OTM4LCJleHAiOjE3MjU0NjE3Mzh9.zJA7AD1tXY6y-er-2GP3OuMi2oGb3RxIoAa890roBkE

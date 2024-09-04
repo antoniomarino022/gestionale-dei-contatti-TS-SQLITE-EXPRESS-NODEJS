@@ -1,0 +1,34 @@
+### clear users
+DELETE http://localhost:3000/user
+Content-Type: application/json
+
+
+
+### register user
+POST http://localhost:3000/user
+Content-Type: application/json
+
+{
+    "username":"antOnsh",
+    "email":"anton87r@gmail.com",
+    "password":"fjfi6gGDHJS"
+}
+
+
+### update user
+PUT http://localhost:3000/user/update/2
+Content-Type: application/json
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MiwiaWF0IjoxNzI1NDU5NTU1LCJleHAiOjE3MjU0NjEzNTV9.UrUrxMhAALzzzrS1TVqHINtYRi6nRHDjD2toQKBbFYY
+
+{
+    "username":"antonio",
+    "password":"jdiNhdu383"
+}
+
+
+
+
+
+### delete user 
+DELETE http://localhost:3000/user/2
+Content-Type: application/json

@@ -1,0 +1,23 @@
+### clear auth
+DELETE http://localhost:3000/auth
+Content-Type: application/json
+
+
+
+
+### login 
+POST http://localhost:3000/auth/login
+Content-Type: application/json
+
+{
+    "email":"anton87r@gmail.com",
+    "password":"fjfi6gGDHJS"
+}
+
+
+
+### logout
+DELETE http://localhost:3000/auth/logout
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6MSwiaWF0IjoxNzI1NDU5NTI2LCJleHAiOjE3MjU0NjEzMjZ9.OJhpxjWY3KMTnQakk_ydy7oLwFr4SSSmV0Fk8HzGH3E
+
+

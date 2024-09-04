@@ -1,0 +1,4 @@
+{"level":"error","message":"Errore JavaScript: Cannot set headers after they are sent to the client","service":"user-service","timestamp":"2024-09-04 16:10:54"}
+{"error":"SQLITE_CONSTRAINT: NOT NULL constraint failed: contacts.userId","level":"error","message":"Errore JavaScript durante l'aggiunta del contatto","service":"user-service","timestamp":"2024-09-04 16:25:55"}
+{"level":"error","message":"tabella contact non svuotata ","service":"user-service","timestamp":"2024-09-04 16:34:52"}
+{"level":"error","message":"tabella contact non svuotata ","service":"user-service","timestamp":"2024-09-04 16:35:20"}
